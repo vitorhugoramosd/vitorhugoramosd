@@ -1,6 +1,6 @@
-👨🏼‍💻 Vitor Hugo Ramos
+# 👨🏼‍💻 Vitor Hugo Ramos
 
-Analista de Suporte Técnico | Estudante de Engenharia de Software
+* Analista de Suporte Técnico | Estudante de Engenharia de Software
 
 Prazer, meu nome é Vitor Hugo Ramos e atualmente atuo como analista de suporte técnico em um ERP, onde trabalho diretamente com atendimento a clientes, análise de problemas e suporte em ambientes produtivos.
 
