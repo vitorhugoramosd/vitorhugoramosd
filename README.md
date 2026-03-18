@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Vitor Hugo Ramos
 
-* Analista de Suporte Técnico | Estudante de Engenharia de Software
+## * Analista de Suporte Técnico | Estudante de Engenharia de Software
 
 Prazer, meu nome é Vitor Hugo Ramos e atualmente atuo como analista de suporte técnico em um ERP, onde trabalho diretamente com atendimento a clientes, análise de problemas e suporte em ambientes produtivos.
 
@@ -8,11 +8,11 @@ Tenho experiência com SQL, análise de dados e investigação de erros, além d
 
 Sou estudante de Engenharia de Software e estou em constante evolução na área de desenvolvimento, buscando aprofundar meus conhecimentos em back-end, banco de dados e arquitetura de sistemas.
 
-🚀 Objetivo
+## 🚀 Objetivo
 
 Busco oportunidades na área de desenvolvimento onde eu possa unir minha experiência prática com sistemas reais (ERP) ao desenvolvimento de software, contribuindo com soluções eficientes e bem estruturadas.
 
-🧠 Linguagens e Tecnologias
+## 🧠 Linguagens e Tecnologias
 
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
@@ -22,7 +22,7 @@ Busco oportunidades na área de desenvolvimento onde eu possa unir minha experi�
 
 <br/><br/>
 
-🛠️ Principais conhecimentos
+## 🛠️ Principais conhecimentos
 
 Desenvolvimento em C# (.NET / WinForms)
 
