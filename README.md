@@ -50,7 +50,3 @@ Continuar evoluindo como desenvolvedor back-end, aprofundando conhecimentos em a
 
 **Pesquisa**
 * LLMs aplicados à manutenção de software (análise de causa raiz e localização de falhas)
-
-## 📂 Projetos pessoais
-
-* Sistema ERP em C# com arquitetura em camadas (Models, Repositories, Services), focado em gestão de estoque
